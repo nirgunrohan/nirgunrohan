@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Rohan Nirgun</h1>
+<h1 align="center">Hey there 👋 I'm Rohan Nirgun</h1>
 <h3 align="center">🎧 Music | 💻 Coding | 🥾 Hiking</h3>
 
 ![Profile views](https://komarev.com/ghpvc/?username=nirgunrohan&color=blue)
