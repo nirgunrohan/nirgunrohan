@@ -35,7 +35,7 @@
 ---
 
 <center>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iamswet&theme=neon&layout=compact" alt="nirgunrohan" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirgunrohan&theme=neon&layout=compact" alt="nirgunrohan" />
 
 </center>
 ---
