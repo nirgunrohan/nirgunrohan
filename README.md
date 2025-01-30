@@ -32,7 +32,7 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nirgunrohan&layout=compact&theme=dark)
 
 <center>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirgunrohan&theme=dark&layout=compact" alt="nirgunrohan" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nirgunrohan&theme=neon&layout=compact" alt="nirgunrohan" />
 </center>
 
 <!--
